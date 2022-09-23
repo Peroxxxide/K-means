@@ -6,7 +6,7 @@ INFO >> put points in files
 
 K_MEANS K >> generating clasters with K-means and put them into files "cluster(id)" , K - number of clasters
 
-INFO_Find_Clusters >> number of clasters and method of its generating
+INFO_Find_Clusters >> number of clasters and method of its generating and put it into file "info_cluster)"
 
 EXIT >> finish
 
