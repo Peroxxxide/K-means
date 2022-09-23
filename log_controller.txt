@@ -1,0 +1,4 @@
+ controller recognised INIT
+ generating clouds
+ controller recognised INFO, output of points in the file "cloud" 
+ creating clusters with K_MEANS. Output points for clusters is in files cluster(id) 

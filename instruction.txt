@@ -1,0 +1,6 @@
+INIT
+GC 3 3 4 3 300
+INFO
+K_MEANS 5
+INFO_Find_Clusters
+EXIT

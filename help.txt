@@ -1,0 +1,12 @@
+INIT >> creation of filed (must use command)
+
+GC mX mY dX dY N >> generation clouds with parameters  mX, mY (double) - centers; dX, dY (double) - dispersy, N (int) - number of points in cloud
+
+INFO >> put points in files
+
+K_MEANS K >> generating clasters with K-means, K - number of clasters
+
+INFO_Find_Clusters >> number of clasters and method of its generating
+
+EXIT >> finish
+

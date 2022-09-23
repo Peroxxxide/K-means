@@ -1,0 +1,7 @@
+ creating accessible command vector
+ scanning file command
+ controller recognised INIT
+ controller recognised GC 3 3 4 3 300
+ controller recognised INFO
+ controller recognised K_MEANS 5
+ controller recognised INFO_Find_Clusters
